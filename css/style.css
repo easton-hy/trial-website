@@ -587,7 +587,7 @@ h6 { font-size: 16px; }
 .erling_tm_about{
 	width: 100%;
 	background-color: #f7f7f7;
-	padding: 143px 0px;
+	padding: 50px 0px;
 }
 .erling_tm_about .about_inner{
 	width: 100%;
@@ -665,7 +665,7 @@ h6 { font-size: 16px; }
 	padding-left: 50px;
 }
 .erling_tm_about .right .list{
-	width: 100%;
+	width: 90%;
 }
 .accordion_wrap{
 	width: 100%;
@@ -689,7 +689,7 @@ h6 { font-size: 16px; }
 }
 .accordion_wrap .accordion_content{
 	width: 100%;
-	padding: 40px;
+	padding: 20px;
 	background-color: #fff;
 	display: none;
 }
@@ -698,7 +698,7 @@ h6 { font-size: 16px; }
 }
 .accordion_wrap .info_list ul li{
 	width: 100%;
-	margin-bottom: 14px;
+	margin-bottom: 10px;
 }
 .accordion_wrap .info_list ul li:last-child{
 	margin-bottom: 0px;
@@ -1233,7 +1233,7 @@ h6 { font-size: 16px; }
 
 .erling_tm_news{
 	width: 100%;
-	padding: 143px 0px 110px 0px;
+	padding: 50px 0px 50px 0px;
 }
 .erling_tm_news .news_list{
 	width: 100%;
