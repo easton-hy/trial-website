@@ -1513,10 +1513,8 @@ h6 { font-size: 16px; }
 }
 
 .footer-map {
-	flex: 20%; /* 脚本块占20%宽度 */
-	display: flex;
-	align-items: center; /* 垂直居中脚本内容 */
-	justify-content: center; /* 水平居中脚本内容 */
+	flex: 40%; /* 图像块占20%宽度 */
+	margin: 0 auto; /* 水平居中 */
 }
 
 /*---------------------------------------------------*/
