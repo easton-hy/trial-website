@@ -819,7 +819,8 @@ h6 { font-size: 16px; }
 
 .erling_tm_service{
 	width: 100%;
-	padding: 143px 0px 110px 0px;
+	background-color: #f7f7f7;
+	padding: 20px 0px 20px 0px;
 }
 .erling_tm_service .service_list{
 	width: 100%;
@@ -1471,7 +1472,7 @@ h6 { font-size: 16px; }
 
 .erling_tm_copyright{
 	width: 100%;
-	background-color: #333;
+	background-color: #ffffff;
 	padding: 45px 0px;
 }
 .erling_tm_copyright .inner{
@@ -1485,7 +1486,7 @@ h6 { font-size: 16px; }
 	max-height: 70px;
 }
 .erling_tm_copyright p{
-	color: #fff;
+	color: #000000;
 }
 .erling_tm_copyright p a{
 	color: #fff;
@@ -1533,6 +1534,11 @@ h6 { font-size: 16px; }
 .progressbar a{
 	text-decoration: none;
 	color: #000;
+}
+
+#cal-heatmap-2023, #cal-heatmap-2024 {
+	width: fit-content;
+	margin: 20px;
 }
 
 /*---------------------------------------------------*/
