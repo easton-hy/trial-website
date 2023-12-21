@@ -1518,7 +1518,11 @@ h6 { font-size: 16px; }
 }
 
 .external-resource-container {
+<<<<<<< HEAD
 	width: 50px; /* 设置容器宽度 */
+=======
+	width: 40px; /* 设置容器宽度 */
+>>>>>>> origin/main
 	height: 30px; /* 设置容器高度 */
 	overflow: hidden; /* 隐藏超出容器的内容 */
 }
