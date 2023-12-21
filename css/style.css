@@ -1519,7 +1519,7 @@ h6 { font-size: 16px; }
 
 .external-resource-container {
 	width: 300px; /* 设置容器宽度 */
-	height: 200px; /* 设置容器高度 */
+	height: 100px; /* 设置容器高度 */
 	overflow: hidden; /* 隐藏超出容器的内容 */
 }
 
