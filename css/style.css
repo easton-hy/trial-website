@@ -1518,8 +1518,8 @@ h6 { font-size: 16px; }
 }
 
 .external-resource-container {
-	width: 100px; /* 设置容器宽度 */
-	height: 100px; /* 设置容器高度 */
+	width: 500px; /* 设置容器宽度 */
+	height: 300px; /* 设置容器高度 */
 	overflow: hidden; /* 隐藏超出容器的内容 */
 }
 
