@@ -1519,6 +1519,7 @@ h6 { font-size: 16px; }
 
 .external-resource-container {
 	width: 30%; /* 设置容器宽度 */
+	overflow: hidden; /* 隐藏超出容器的内容 */
 }
 
 /*---------------------------------------------------*/
