@@ -1496,12 +1496,12 @@ h6 { font-size: 16px; }
 }
 
 .footer-image {
-	flex: 10%; /* 图像块占20%宽度 */
+	width: 10%; /* 图像块占20%宽度 */
 	margin: 0 auto; /* 水平居中 */
 }
 
 .footer-text {
-	flex: 40%; /* 文本块占40%宽度 */
+	width: 40%; /* 文本块占40%宽度 */
 	display: flex;
 	flex-direction: column;
 	align-items: center; /* 垂直居中文本内容 */
@@ -1513,13 +1513,14 @@ h6 { font-size: 16px; }
 }
 
 .footer-map {
-	flex: 40%; /* 图像块占20%宽度 */
+	width: 40%; /* 图像块占20%宽度 */
 	margin: 0 auto; /* 水平居中 */
 }
 
 .external-resource-container {
-	width: 200px; /* 设置容器宽度 */
-	height: 100px; /* 设置容器高度 */
+	width: 100%; /* 设置容器宽度 */
+	height: 70%; /* 设置容器高度 */
+	overflow: hidden; /* 隐藏超出容器的内容 */
 }
 
 /*---------------------------------------------------*/
