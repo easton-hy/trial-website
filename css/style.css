@@ -1513,7 +1513,7 @@ h6 { font-size: 16px; }
 }
 
 .footer-map {
-	width: 30%; /* 图像块占20%宽度 */
+	width: 10%; /* 图像块占20%宽度 */
 	margin: 0 auto; /* 水平居中 */
 }
 
