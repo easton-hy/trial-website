@@ -1496,8 +1496,13 @@ h6 { font-size: 16px; }
 }
 
 .erling_tm_copyright .right{
-	width: 50%;
+	width: 20%;
 	padding-left: 20px;
+}
+
+.erling_tm_copyright .left{
+	width: 80%;
+	padding-right: 20px;
 }
 .erling_tm_copyright .box{
 	width: 100%;
