@@ -549,6 +549,15 @@ h6 { font-size: 16px; }
 	text-transform: uppercase;
 	font-family: 'Archivo Black', sans-serif;
 }
+
+.erling_tm_hero .text chnh3{
+	font-size: 130px;
+	font-weight: 800;
+	line-height: 1.1;
+	text-transform: uppercase;
+	font-family: KaiTi;
+}
+
 .erling_tm_hero .job{
 	display: inline-block;
 	background-color: #f5f5f5;
