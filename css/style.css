@@ -1505,22 +1505,14 @@ h6 { font-size: 16px; }
 
 .erling_tm_copyright .mapbox{
 	width: 25%;
-	align-items: center; /* 垂直居中文本内容 */
-	justify-content: center; /* 水平居中文本内容 */
 }
 
 .erling_tm_copyright .imgbox{
 	width: 20%;
-	align-items: center; /* 垂直居中文本内容 */
-	justify-content: center; /* 水平居中文本内容 */
 }
 
 .erling_tm_copyright .textbox{
 	width: 35%; /* 文本块占40%宽度 */
-	display: flex;
-	flex-direction: column;
-	align-items: center; /* 垂直居中文本内容 */
-	justify-content: center; /* 水平居中文本内容 */
 }
 
 .erling_tm_copyright .textbox p{
