@@ -1513,13 +1513,11 @@ h6 { font-size: 16px; }
 
 .erling_tm_copyright .textbox{
 	width: 100%; /* 文本块占40%宽度 */
-	align-items: center; /* 垂直居中文本内容 */
 	justify-content: center; /* 水平居中文本内容 */
 }
 
 .erling_tm_copyright p{
 	margin: 0; /* 移除段落的默认边距 */
-	align-items: center; /* 垂直居中文本内容 */
 	justify-content: center; /* 水平居中文本内容 */
 }
 
